@@ -1,5 +1,5 @@
 package HospitalManagementProject;
-//start from making addpatient method
+
 import javax.print.Doc;
 import java.util.ArrayList;
 import java.util.Scanner;
